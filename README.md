@@ -1,12 +1,12 @@
 
-### 🚀 Software Engineer
+### Software Engineer
 **"서비스 품질 개선과 유지보수를 고려하며, 공동의 목표를 향해 주도적으로 개발합니다."**
 
 Node.js, React, React Native 기반의 웹 및 모바일 서비스 **End-to-End 개발 경험**을 보유하고 있습니다.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
@@ -17,7 +17,7 @@ Node.js, React, React Native 기반의 웹 및 모바일 서비스 **End-to-End 
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **주식회사 정션메드 (Junction Med)**
 *Full Stack Developer | 2025.05 - Present*
@@ -30,7 +30,7 @@ Node.js, React, React Native 기반의 웹 및 모바일 서비스 **End-to-End 
 
 ---
 
-## 💻 Personal Projects & Awards
+## Personal Projects & Awards
 
 - **🏆 2023 경기콘텐츠진흥원 해커톤 대상** (2023.08)
 - **📱 프레이로그 (PrayLog)** (2025.01)
@@ -40,7 +40,7 @@ Node.js, React, React Native 기반의 웹 및 모바일 서비스 **End-to-End 
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <div align="left">
   <a href="mailto:sju4486@naver.com">
