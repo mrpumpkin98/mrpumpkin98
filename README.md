@@ -1,6 +1,5 @@
-# Hi there, I'm Jae-wook Shin 👋
 
-### 🚀 Software Engineer | End-to-End Developer
+### 🚀 Software Engineer
 **"서비스 품질 개선과 유지보수를 고려하며, 공동의 목표를 향해 주도적으로 개발합니다."**
 
 Node.js, React, React Native 기반의 웹 및 모바일 서비스 **End-to-End 개발 경험**을 보유하고 있습니다.
