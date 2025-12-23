@@ -23,7 +23,7 @@ Node.js, React, React Native 기반의 웹 및 모바일 서비스 **End-to-End 
 ### **주식회사 정션메드 (Junction Med)**
 *Full Stack Developer | 2025.05 - Present*
 - **CareOne (케어원):** B2G 돌봄 헬스케어 서비스 앱 & 통합 관리 웹 개발
-- **Appintos (앱인토스):** AI 감정일기 앱 및 토스(Toss) 제휴 서비스 개발
+- **Appintoss (앱인토스):** AI 감정일기 앱 및 토스(Toss) 제휴 서비스 개발
 
 ### **주식회사 아스크스토리디에스 (AskStory DS)**
 *Frontend Developer | 2023.12 - 2025.05*
